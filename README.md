@@ -1,4 +1,4 @@
-# Omer-s_Portfolio
+# Omer_Kurban_Portfolio
 Data Science Portfolio
 
 # [Project 1: Salary Estimator Project](https://github.com/PlayingNumbers/ds_salary_proj)
